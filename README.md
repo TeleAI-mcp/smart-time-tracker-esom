@@ -1,2 +1,3 @@
-# smart-time-tracker-esom
-Automated issue comment bot repository
+# Smart Time Tracker Esom
+
+Automated issue comment bot repository.
